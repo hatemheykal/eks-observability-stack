@@ -1,0 +1,12 @@
+# Terraform files
+.terraform
+*.tfstate
+*.tfstate.*
+
+# Maven files
+target/
+
+# IDE files
+.idea/
+*.iml
+.vscode/
